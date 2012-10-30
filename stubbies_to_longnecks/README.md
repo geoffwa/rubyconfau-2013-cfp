@@ -25,7 +25,7 @@ wailing away on a keyboard punching out Ruby he daydreams about making
 teams operationally excellent with liberal doses of DevOps and building
 a cape that will make him nerf-proof.
 
-![Profile picture](https://raw.github.com/ggiesemann/rubyconfau-2013-cfp/master/stubbies_to_longnecks/profile_picture.jpg)
+![Profile picture](https://raw.github.com/geoffwa/rubyconfau-2013-cfp/master/stubbies_to_longnecks/profile_picture.jpg)
 
 - [My twitter](https://twitter.com/ggiesemann)
 - [Past talk slides](http://www.slideshare.net/ggiesemann)
